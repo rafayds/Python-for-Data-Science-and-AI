@@ -1,7 +1,9 @@
 # Python-for-Data-Science-and-AI
-Find the contents in the different branches (labeled as different weeks). They include course LABS completed by me.
+Find the contents in the different branches (labeled as different weeks).
 
-Taken from Coursera course description:
+They include course LABS completed by me.
+
+Course description, taken directly from Coursera:
 
 <b>About this Course</b>
 
